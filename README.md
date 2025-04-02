@@ -5,5 +5,3 @@ while True: print(eval(input(">>")))
 ```
 
 
-If you want to contact with me:
-**czmblk@proton.me**
